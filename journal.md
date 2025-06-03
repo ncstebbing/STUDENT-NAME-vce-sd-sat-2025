@@ -23,10 +23,10 @@ To be done...
 - Make first full backup and store on network home drive
 ---
 
-## 📅 Journal Entry: [next date]
+## 📅 Journal Entry: 2025-06-25
 
 **Current Task:**  
-_Describe your current focus here_
+Created my repository and cloned it to my laptop in G:\2025\Software Development
 
 **Notes:**  
-- _Summarise your work, problems encountered, what went well, and next steps_
+- The repository address is https://github.com/strathmoreit/STUDENT-NAME-vce-sd-sat-2025
